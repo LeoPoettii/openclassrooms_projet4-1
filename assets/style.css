@@ -118,7 +118,7 @@ header {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #7c7300;
+	background-color: #655c00;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -208,7 +208,7 @@ header {
 
 #contact {
 	margin: auto;
-	background-color: #D8D3A8 ;
+	background-color: #bdb78e ;
 	position: relative;
 	padding-inline: 100px;
 	padding-block: 100px;
@@ -219,7 +219,7 @@ header {
 }
 .picture.right::before {
 	content: ' ';
-	background-color: #7c7300;
+	background-color: #655c00;
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -256,7 +256,7 @@ form textarea {
 	margin-bottom: 20px;
 }
 input[type="submit"] {
-	background-color: #7c7300;
+	background-color: #655c00;
 	padding: .5em 1em
 }
 
