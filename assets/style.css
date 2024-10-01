@@ -60,7 +60,7 @@ header {
 
 #about {
 	display: flex;
-	background-color: #F6D2B8;
+	background-color: #E5975F;
 	padding-inline: 100px;
 	padding-block: 100px;
 	position: relative;
@@ -68,7 +68,7 @@ header {
 
 .picture.left::before {
 	content: ' ';
-	background-color: #E5975F;
+	background-color: #F6D2B8;
 	width: 374px;
 	height: 329px;
 	position: absolute;
