@@ -221,7 +221,7 @@ $.fn.mauGallery.methods = {
 
     // Appliquer la classe active et les styles au nouveau filtre sélectionné
     $(this).addClass("active-tag").addClass("active").css({
-        "background-color": "#655c00", 
+        "background-color": "#2c2900", 
         "color": "white"
     });
 
